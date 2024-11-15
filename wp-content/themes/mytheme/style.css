@@ -1,0 +1,29 @@
+/*
+Theme Name: MyTheme
+Author: Your Name
+Version: 1.0
+*/
+
+/* Body background color */
+body {
+    background-color: #ffe6e6; /* Light pink */
+}
+
+/* Container for headers */
+.header-container {
+    background-color: #fff2e6; /* Cream color */
+    padding: 20px; /* Adjust padding as needed */
+    margin-bottom: 20px; /* Add margin to separate content */
+}
+
+/* Example styling for headers */
+.header-container h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333; /* Dark text color */
+}
+
+.header-container h2 {
+    font-size: 20px;
+    color: #666; /* Slightly darker text color */
+}
